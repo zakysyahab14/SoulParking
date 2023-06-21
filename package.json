@@ -21,7 +21,7 @@
     "chartjs-plugin-labels": "^1.1.0",
     "jw-vue-pagination": "^1.0.3",
     "numeral": "^2.0.6",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "vue-blockui": "^1.1.7",
     "vue-c3": "^1.2.11",
     "vue-chartjs": "^3.5.0",
